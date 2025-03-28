@@ -48,3 +48,13 @@ db.students.find()
 ## Submit screenshots demonstrating:
 * RDS MySQL Queries (User table, Join results).
 * DocumentDB MongoDB Queries (Users and nested orders).
+
+
+
+RDS
+
+![RDS](/img/rds.png)
+
+DocumentDB Mongodb
+
+![DocumentDB Mongodb](/img/documentdb.png)
